@@ -8,3 +8,5 @@ Ideally, I want to create 1 singular place for all of my tasks that need to get 
 2. Get push notifications on my phone when a task is due (toilet paper is due this afternoon)
 3. From the alexa application - see my list of todos that I need to do.
 4. Hit a basic auth web URL which will show me my list of items remaining.
+
+[!basic image](./db/ss.png)
